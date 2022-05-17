@@ -96,6 +96,12 @@ body{
     background-color: #666; 
     border-radius: 0px 0px 4px 4px;
   }
+
+  .or{
+      margin-left: 50vw;
+      margin-top: 12vh;
+      position: fixed;
+  }
   
   @media screen and (max-width: 650px){
     .col{
